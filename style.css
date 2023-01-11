@@ -17,7 +17,17 @@ li:hover {
 }
 
 .main-img {
-    max-width: 300px;
+    max-width: 500px;
+    border-radius: 15pt;
+    margin-top: 100px;
+    margin-bottom: 30px
+}
+
+.thumb-img {
+    max-width: 100px;
+    border-radius: 15pt;
+    margin-right: 27px;
+    cursor: pointer;
 }
 
 
