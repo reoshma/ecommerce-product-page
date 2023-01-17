@@ -1,6 +1,6 @@
 *{
     font-family: kumbh sans;
-    letter-spacing: 2px;
+    letter-spacing: 1px;
 }
 
 .attribution {
@@ -31,11 +31,21 @@ li:hover {
 }
 
 
+.container-2.col {
+    padding-top: 150px;
+}
+
+.col__tag-product {
+    padding-top: 10px;
+    color: #ff7d1ae3;
+}
+
+
 
 /*botão add */
 
-.btn btn-warning px-5 py-2 {
-    background-color: hsl(26, 100%, 55%);
+.btn.px-5.py-2 {
+    background-color: #ff7d1af6;
 }
 
 btn btn-warning px-5 py-2:hover {
